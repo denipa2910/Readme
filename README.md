@@ -1,7 +1,7 @@
 # ROFILE DENIPA2910
-ENG : Sorry, I'AM INDONESIAN and not used to communicating in language english 🥲
+ENG : Sorry, I'AM INDONESIAN and hard communicating in language english 🥲
 
-IND : Maaf, Saya indonesia dan tidak biasa komunikasi dalam bahasa inggris
+IND : Maaf, Saya indonesia dan sulit komunikasi dalam bahasa inggris
 
 # Motto
 ENG : The first loss hurts, but that's what makes games fun
